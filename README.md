@@ -16,6 +16,13 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 The analysis of the election show that:
 * There were 369,711 votes cast in the election.
 
+Votes by County:
+* Jefferson: 10.5% (38,855)
+* Denver: 82.8% (306,055)
+* Arapahoe: 6.7% (24,801)
+* 
+Largest County Turnout: Denver 306,055 (82.8%).
+
 The candidates were:
 * Charles Casper Stockham
 * Diana DeGette
@@ -28,3 +35,6 @@ The Candidate results were:
 
 The winner of the election was:
 * Diana DeGette who received 73.8% of the vote and 272,892 number of votes. 
+
+## Election-Audit Script
+This script can be used for any ballot election. The script will adjust to different candidates submitted within the csv file. As the ballot is expanded through different regions, different county names will be included into the script as well.
