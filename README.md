@@ -20,7 +20,7 @@ Votes by County:
 * Jefferson: 10.5% (38,855)
 * Denver: 82.8% (306,055)
 * Arapahoe: 6.7% (24,801)
-* 
+
 Largest County Turnout: Denver 306,055 (82.8%).
 
 The candidates were:
